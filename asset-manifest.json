@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snow-game/static/css/main.6b521b53.css",
+    "main.js": "/snow-game/static/js/main.450027c3.js",
+    "static/js/787.ad688dd7.chunk.js": "/snow-game/static/js/787.ad688dd7.chunk.js",
+    "index.html": "/snow-game/index.html",
+    "main.6b521b53.css.map": "/snow-game/static/css/main.6b521b53.css.map",
+    "main.450027c3.js.map": "/snow-game/static/js/main.450027c3.js.map",
+    "787.ad688dd7.chunk.js.map": "/snow-game/static/js/787.ad688dd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b521b53.css",
+    "static/js/main.450027c3.js"
+  ]
+}
